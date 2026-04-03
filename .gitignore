@@ -1,0 +1,7 @@
+bin/
+obj/
+TrolleybusApp.sln
+TrolleybusApp.csproj
+App.xaml
+App.xaml.cs
+Assemblyinfo.cs
